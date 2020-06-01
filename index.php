@@ -19,8 +19,6 @@ require 'db.php';
       <div class="row">
         <div class="col-12">
           <div class="toptext">Здравствуйте, как мы можем помочь?</div>
-          <div class="toptext">  <?php echo $better_token; ?></div>
-          <div class="toptext">  <?php echo $token; ?></div>
         </div>
         <div class="col-12">
           <a href="add_ticket.php" class="inlinetask">
