@@ -1,0 +1,38 @@
+body {
+  /*background: #343a40;*/
+}
+.inlinetask {
+  display: block;
+  text-align: center;
+  width: 200px;
+  padding: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  color: #FFF;
+  margin: auto;
+  background: #cbaef3;
+  border-radius: 5px;
+  font-weight: bold;
+  }
+.inlinetask:hover {
+  text-decoration: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  color: #FFF;
+  background: #b98ff1;
+}
+.toptext {
+  display: block;
+  text-align: center;
+  padding: 15px;
+  margin: auto;
+  font-size: 22px;
+  font-weight: bold;
+}
+label:after {
+    content: "*";
+    right: -.5em;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.22;
+    color: #e02020;
+}
