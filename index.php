@@ -18,7 +18,7 @@ require 'db.php';
 
       <div class="row">
         <div class="col-12">
-          <div class="toptext">Привет , как мы можем помочь?</div>
+          <div class="toptext">Привет, как мы можем помочь?</div>
         </div>
         <div class="col-12">
           <a href="add_ticket.php" class="inlinetask">
